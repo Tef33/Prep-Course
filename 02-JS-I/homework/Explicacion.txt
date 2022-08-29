@@ -1,0 +1,11 @@
+ * Variables
+Es un lugar donde guardo información que podré usar después.
+ * Strings
+ Es el tipo de dato que presenta un texto.
+ * Funciones (argumentos, `return`)
+ Es un pedazo de código que recibe algo(argumentos), para despúes devolverme ó no, algo(return).
+ Y lo puedo llamar las veces que hagan falta durante el trabajo.
+ * Declaraciones `if`
+ Es un statements que evalúa una expresión ó condición que puede ser true ó false.
+ * Valores booleanos (`true`, `false`)
+ Es un tipo de dato que guarda información que puede ser true / false.
